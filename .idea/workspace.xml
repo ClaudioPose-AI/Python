@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b8c6f6-fd9c-46e4-ae06-8db7eded6e87" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AulasPythonIgnZero/04Comentarios/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AulasPythonIgnZero/05VariaveisInteiros/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AulasPythonIgnZero/06OperacoesMatematicas/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udacity/Fundamentos da Programação com Python/Introductions/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udacity/Fundamentos da Programação com Python/MakeClasses/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udacity/Fundamentos da Programação com Python/UseClasses/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udacity/Fundamentos da Programação com Python/UseFunctions/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/FunctionalLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics/ClassBasc.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,31 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="CaixaEletronico.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
+      <file leaf-file-name="07-MaintLists.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="455">
+              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Case01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <file leaf-file-name="08-DesempacotamentoListas.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Case4[.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="925">
+              <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -72,6 +61,13 @@
         <option value="$PROJECT_DIR$/ThinkPython/05Functions/Case03.py" />
         <option value="$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py" />
         <option value="$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py" />
+        <option value="$PROJECT_DIR$/Python/Estruturas de Dados/01-Listas/Lists.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/FunctionalLists.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/Lists.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics/ClassBasc.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py" />
+        <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py" />
       </list>
     </option>
   </component>
@@ -99,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,23 +105,25 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="AulasPythonIgnZero" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="AulasPythonIgnZero" type="462c0819:PsiDirectoryNode" />
-              <item name="010 - Comparações Múltiplas" type="462c0819:PsiDirectoryNode" />
+              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="Estruturas de Dados" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,106 +137,106 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CaixaEletronico">
-    <configuration name="CaixaEletronico" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.08-DesempacotamentoListas">
+    <configuration name="07-MaintLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Case01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08-DesempacotamentoListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThinkPython/05Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThinkPython/05Functions/Case01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Case02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ClassBasc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThinkPython/05Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThinkPython/05Functions/Case02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics/ClassBasc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Case03" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FunctionalLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThinkPython/05Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThinkPython/05Functions/Case03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/FunctionalLists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Case4[" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ProgramacaoFunctional" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ThinkPython/05Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Case01" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Case02" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Case03" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Case4[" />
-      <item index="4" class="java.lang.String" itemvalue="Python.CaixaEletronico" />
+      <item index="0" class="java.lang.String" itemvalue="Python.FunctionalLists" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ClassBasc" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ProgramacaoFunctional" />
+      <item index="3" class="java.lang.String" itemvalue="Python.07-MaintLists" />
+      <item index="4" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.CaixaEletronico" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Case4[" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Case03" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Case02" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Case01" />
+        <item index="0" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.07-MaintLists" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ProgramacaoFunctional" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ClassBasc" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FunctionalLists" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +260,7 @@
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16054054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17405406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -317,83 +314,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/Lists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="675">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics/ClassBasc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case02.py">
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/FunctionalLists.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="25">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case03.py">
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="1025">
+          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
+    <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -401,14 +357,207 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/09Lists/01ListValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="16" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case4[.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPython/05Functions/Case01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AulasPythonIgnZero/010 - Comparações Múltiplas/CaixaEletronico.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/ClassBasics/ClassBasc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/01-Listas/FunctionalLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
           <folding />
         </state>
       </provider>
