@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b8c6f6-fd9c-46e4-ae06-8db7eded6e87" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py" afterPath="$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="10-ModuloMath.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
+      <file leaf-file-name="3IntroDLcomSiraj.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -29,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -53,6 +58,8 @@
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py" />
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/09-NumbPseudoAleatorios.py" />
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py" />
+        <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
+        <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" />
       </list>
     </option>
   </component>
@@ -81,7 +88,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,18 +98,34 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Estruturas de Dados" type="462c0819:PsiDirectoryNode" />
+              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="Nanodegree-Deep-Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="Nanodegree-Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="1Introducao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Udacity" type="462c0819:PsiDirectoryNode" />
+              <item name="Nanodegree-Deep-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="1Introducao" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula05-Regressao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,6 +161,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="08-DesempacotamentoListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,6 +179,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="09-NumbPseudoAleatorios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,6 +197,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="10-ModuloMath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +215,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="ProgramacaoFunctional" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,6 +233,7 @@
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.ProgramacaoFunctional" />
@@ -245,7 +272,7 @@
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18702702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2557029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -255,14 +282,15 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="89" y="89" width="1742" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -299,11 +327,24 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -311,7 +352,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -319,7 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -327,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -335,7 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -343,7 +380,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -351,7 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -359,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -367,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -375,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -383,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="925">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +653,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
           <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,14 +660,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
+        <state relative-caret-position="638">
           <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
