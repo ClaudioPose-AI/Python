@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b8c6f6-fd9c-46e4-ae06-8db7eded6e87" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" />
+      <change beforePath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" afterPath="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,11 +15,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="3IntroDLcomSiraj.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3IntroDLcomSiraj.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="brain_body.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/brain_body.txt">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,8 +78,9 @@
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/08-DesempacotamentoListas.py" />
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/09-NumbPseudoAleatorios.py" />
         <option value="$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py" />
-        <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
         <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.ipynb" />
+        <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
+        <option value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/brain_body.txt" />
       </list>
     </option>
   </component>
@@ -87,7 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,7 +146,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,25 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10-ModuloMath">
-    <configuration name="07-MaintLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo">
     <configuration name="08-DesempacotamentoListas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,38 +220,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ProgramacaoFunctional" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3IntroDLcomSiraj" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy/Estruturas de Dados/03-ProgFuncional/ProgramacaoFunctional.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ProgramacaoFunctional" />
-      <item index="1" class="java.lang.String" itemvalue="Python.07-MaintLists" />
-      <item index="2" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
-      <item index="3" class="java.lang.String" itemvalue="Python.09-NumbPseudoAleatorios" />
-      <item index="4" class="java.lang.String" itemvalue="Python.10-ModuloMath" />
+      <item index="0" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
+      <item index="1" class="java.lang.String" itemvalue="Python.09-NumbPseudoAleatorios" />
+      <item index="2" class="java.lang.String" itemvalue="Python.10-ModuloMath" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3IntroDLcomSiraj" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.10-ModuloMath" />
-        <item index="1" class="java.lang.String" itemvalue="Python.09-NumbPseudoAleatorios" />
-        <item index="2" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
-        <item index="3" class="java.lang.String" itemvalue="Python.07-MaintLists" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ProgramacaoFunctional" />
+        <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3IntroDLcomSiraj" />
+        <item index="2" class="java.lang.String" itemvalue="Python.10-ModuloMath" />
+        <item index="3" class="java.lang.String" itemvalue="Python.09-NumbPseudoAleatorios" />
+        <item index="4" class="java.lang.String" itemvalue="Python.08-DesempacotamentoListas" />
       </list>
     </recent_temporary>
   </component>
@@ -270,18 +291,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2557029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2557029" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34195065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -327,20 +347,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/10-ModuloMath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy/Estruturas de Dados/07-MaintLists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -679,9 +685,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/3IntroDLcomSiraj.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/brain_body.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udacity/Nanodegree-Deep-Learning/1Introducao/Aula05-Regressao/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
